@@ -1,4 +1,4 @@
-# Nova
+# Nova V1.00
 Stella is **Nexus's Capital** *proprietary* a Trading Algorithm / Pipeline. 
 
 ## Intuition
