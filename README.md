@@ -1,5 +1,5 @@
 # Nova V1.00
-Stella is **Nexus's Capital** *proprietary* a Trading Algorithm / Pipeline. 
+Experimental Deep Learning Algorithm for Trading. Doesn't mimic real market representation so mainly for educational and experimental purposes.
 
 ## Intuition
 People like to think **intuitively** when viewing trading charts. Many seasons traders cannot explain how or why they make their decisions (something scene with many areas of expertise). We aim to model just that by using **2D chart data** in the same fashion as viewing charts.
