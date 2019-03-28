@@ -29,3 +29,6 @@ else:
 
 ### Future Work
 We will experiment with different **Labeling** Methods along with other **Features** 
+
+### White Paper
+https://arxiv.org/pdf/1801.03018.pdf 
